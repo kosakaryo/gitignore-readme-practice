@@ -10,19 +10,19 @@ Python版とJava版があります。
 ### Python版：janken.py
 1. ターミナルでフォルダに移動
 2. 以下を実行
-```言語名
-python janken.py
-```
+    ```Python
+    python janken.py
+    ```
 ### Java版：Janken.java
 1. ターミナルでフォルダに移動
 2. コンパイル
-```言語名
-javac janken.java
-```
+    ```Java
+    javac janken.java
+    ```
 3. 実行
-```言語名
-janken.Janken
-```
+    ```Java
+    janken.Janken
+    ```
 ## 遊び方
 
 1. プログラムを実行すると、手の選択肢が表示されます。
